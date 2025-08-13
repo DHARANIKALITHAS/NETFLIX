@@ -1,0 +1,101 @@
+body{
+
+background-image: url('net2.webp') ; 
+background-repeat: no-repeat;
+background-size: cover; 
+ background-size: center; 
+background-color: black;
+
+
+
+
+}
+   .black1{
+    background-color: black;
+    
+    
+    width: 550px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 150px;
+   }
+
+
+h1{
+    color:red;
+}
+h2{
+    color: white;
+    
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+  
+        .typing-box{
+            width:250px;
+            padding:10px;
+            font-size: 16px;
+            border:2ox solid #555;
+            border-radius:5px;
+            margin-left: 150px;
+        }
+    #summit-button{
+        color: red;
+        margin-top: 10px;
+        padding: 10px ;
+        font-size: 16px;
+        
+        color: black;
+        border: none;
+        border-radius: 5px;
+        
+        cursor:default;
+        animation:backwards;
+        background-color: gray;
+        
+        
+    }
+    #submit-button:hover {
+        background-color: red;
+
+    }
+    input{
+        margin-left: 250px;
+
+    }
+    h1{
+        font-size: 50px;
+    }
+   .new{
+    background-color: black;
+    
+    align-content: center;
+    
+   }
+   #click{
+        
+        margin-top: 10px;
+        
+        font-size: 16px;
+    
+        
+        color:red;
+        border: none;
+        border-radius: 5px;
+        animation:backwards;
+        cursor:default;
+        background-color:aliceblue;
+   }
+   .black{
+    background-color: black;
+    
+    
+    width: 550px;
+    height: 300px;
+    margin-left: 600px;
+    margin-left: 200px;
+   }

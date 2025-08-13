@@ -1,0 +1,38 @@
+.resize.image{
+    width:10px;
+    height: 10px;
+}
+H3{
+    color: red;
+    
+}
+.image-description{
+    
+}
+*{
+    background-color: black;
+}
+img{
+    height: 150px;
+
+    width: 120px;
+}
+.spaced_img{
+    margin-right: 120px;
+    margin-left: 120px;
+}
+.line{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+/* p{
+    color: white;
+    margin-left: 60px;
+    margin-inline: 60px;
+    
+} */
+ .spaced_img{
+    border: 5px solid plum;
+    /* border-color: aliceblue; */
+
+ }
